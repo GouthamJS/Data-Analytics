@@ -1,4 +1,4 @@
-# Data-Analytics Projects 🚀
+# Data-Analytics Projects📈🚀
 
 Welcome to my **Data Analytics Repository**!  
 This repository contains projects showcasing my skills in analyzing and visualizing data, along with datasets and insights derived from various domains.  
