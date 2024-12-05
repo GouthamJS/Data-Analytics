@@ -9,6 +9,7 @@ Each project represents a milestone in my journey to master data analytics.
 ## 🛠️ Skills Demonstrated
 - **Data Cleaning**
 - **Exploratory Data Analysis (EDA)**
+- **SQL**
 
 ---
 
