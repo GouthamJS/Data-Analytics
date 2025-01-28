@@ -14,8 +14,8 @@ Each project represents a milestone in my journey to master data analytics.
 ---
 
 ## 📊 Tools and Technologies
-- **Languages**: Python, Jupyter Notebook
-- **Libraries**: Pandas, NumPy, Matplotlib
+- **Languages**: Python, Google Colab, Jupyter Notebook
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, ydata-profiling
 
 ---
 
